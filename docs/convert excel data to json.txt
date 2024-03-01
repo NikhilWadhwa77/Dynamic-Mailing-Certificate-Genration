@@ -1,0 +1,11 @@
+convert excel data to json
+
+name mobile_no email amount 	no_of_trees(not in excel but in schema)
+
+unique:true
+
+headings become keys
+
+javascripting to add number of trees by dividing amount dividing by amount of trees
+
+destructure the value add new json to add no of trees to the data
